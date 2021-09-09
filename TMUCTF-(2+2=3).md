@@ -257,7 +257,7 @@ I stored the results(possible image files) in a directory named dump.
 After seeing those images,I got a hit about what I need to find.
 ![](/images/screenshot.PNG)
 
-we probably have an image names I'm here.
+we probably have an image named I'm here.
 
 ## clipboard
 The output of clipboard plugin gives off something that may be juicy.
