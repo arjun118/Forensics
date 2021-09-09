@@ -255,7 +255,7 @@ after seeing the output of cmdline I went on and used screenshot ans clipboard p
 I stored the results(possible image files) in a directory named dump.
 
 After seeing those images,I got a hit about what I need to find.
-![](/images/screenshot.PNG)
+![](/images/screenshot.png)
 
 we probably have an image named I'm here.
 
@@ -332,7 +332,7 @@ https://tinyurl.com/t7zpyfb6
 which leads us to a mega file.I Downloaded the so called You found me again.png image file.
 
 There's a problem with the png file header,I changed it using a hexeditor and opened the png file to get our flag.
-![](/images/flag-part-1.PNG)
+![](/images/flag-part-1.png)
 
 **TMUCTF{M@Y8e_1_@M_6oOD_iN_ch3mI$7ry}**
 
