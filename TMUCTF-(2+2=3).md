@@ -273,7 +273,7 @@ Session    WindowStation Format                         Handle Object           
          1 WinSta0       CF_TEXT                           0x1 ------------------                                                   
          1 ------------- ------------------            0x802bb 0xfffff900c1e05410 
 ```
-This indicates we might probably have a pdf file named You found me.So,let's find out.
+This indicates we might probably have a pdf file named You found me(this may not be the case,this so called pdf file hadn't appeared in filescan).So,let's find out.
 
 ## filescan
 searching for the earlier mentioned I'm here file....
@@ -329,7 +329,7 @@ use the file command or open the dump directory(or whereever the file is in a fi
 
 opening the pdf  file we find the following link,
 https://tinyurl.com/t7zpyfb6
-which leads us to a mega file.I Downloaded the so called You found me again.png image file.
+which leads us to a mega file.I downloaded the so called You found me again.png image file.
 
 There's a problem with the png file header,I changed it using a hexeditor and opened the png file to get our flag.
 ![](/images/flag-part-1.png)
